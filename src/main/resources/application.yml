@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sample-consulconfig
+  cloud:
+    consul:
+      host: consul-nonheadless
+      port: 8500
+server:
+  port: 8080
