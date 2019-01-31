@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project name="maven-antrun-" default="main"  >
 <target name="main">
-  <copy file="C:\kbelgadi\workspace\sample-consulconfig/target/sample-consulconfig-1.0.1-SNAPSHOT.jar" tofile="C:\kbelgadi\workspace\sample-consulconfig/target/dockerfile/sample-consulconfig-1.0.1-SNAPSHOT.jar"/>
+  <copy file="C:\kbelgadi\workspace\sample-consulconfig/target/sample-consulconfig-0.0.1-SNAPSHOT.jar" tofile="C:\kbelgadi\workspace\sample-consulconfig/target/dockerfile/sample-consulconfig-0.0.1-SNAPSHOT.jar"/>
 </target>
 </project>

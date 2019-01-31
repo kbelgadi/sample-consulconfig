@@ -1,6 +1,6 @@
 spring:
   application:
-    name: sample-consulconfig
+    name: sampleconsulconfig
   cloud:
     consul:
       host: consul-nonheadless

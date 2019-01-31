@@ -1,10 +1,10 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: demo-app
+  name: demo-consul-app
 spec:
   selector:
-    app: demo-app
+    app: demo-consul-app
   ports:
   - protocol: TCP
     port: 8080

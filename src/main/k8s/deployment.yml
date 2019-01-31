@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: demo-app
+  name: demo-consul-app
   labels:
-    app: demo-app
+    app: demo-consul-app
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: demo-app
+      app: demo-consul-app
   template:
     metadata:
       labels:
-        app: demo-app
+        app: demo-consul-app
     spec:
       containers:
-      - name: demo-app
+      - name: demo-consul-app
         image: localhost:5000/sample-configconsul:0.1
         ports:
         - containerPort: 8080

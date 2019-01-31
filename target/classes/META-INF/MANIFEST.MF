@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: sample-consulconfig
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: kambelga
+Implementation-Vendor-Id: com.accor.wco.samples
 Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sample-consulconfig
 Created-By: Maven Integration for Eclipse
 

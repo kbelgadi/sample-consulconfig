@@ -1,4 +1,4 @@
 com\accor\wco\samples\sample\consulconfig\model\Hotel.class
-com\accor\wco\samples\sample\consulconfig\config\ServiceConfig.class
 com\accor\wco\samples\sample\consulconfig\controller\HotelController.class
 com\accor\wco\samples\sample\consulconfig\SampleConsulConfigApplication.class
+com\accor\wco\samples\sample\consulconfig\config\ServiceConfig.class
